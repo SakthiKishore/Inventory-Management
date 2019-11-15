@@ -1,1 +1,1 @@
-A warehouse management application for small businesses and factories. It used a MySQL database for the backend and the frontend was written using PHP.
+A warehouse management application for small businesses and factories. It uses a MySQL database for the backend and the frontend is written using PHP.
